@@ -1,0 +1,7 @@
+Bank Load Status Prediction
+
+https://mail-sivakavin.medium.com/bank-load-status-prediction-518ba1d37921
+
+Predicting attrition using HR analytics
+
+https://mail-sivakavin.medium.com/predicting-attrition-using-hr-analytics-ffe6e37a8f8d
